@@ -14,7 +14,8 @@ This project leverages several AWS services:
 
 ## Architecture Diagram
 
-*Include your architecture diagram here if available.* 🖼️
+<img width="1908" height="932" alt="image" src="https://github.com/user-attachments/assets/21671240-03ad-4641-80ad-01974f62bcd3" />
+
 
 ## Deployment Instructions
 
